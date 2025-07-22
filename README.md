@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=gradient&c1=5e42a6&c2=b74e91&height=120§ion=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=round&color=gradient&c1=3a2469&c2=9b59b6&height=150§ion=header"/>
 
 # Olá, mundo! Eu sou a Joelma Prestes, mas pode me chamar de Jô. 👋
 
@@ -54,6 +54,9 @@ Tenho experiência com um ecossistema variado, sempre buscando a ferramenta cert
 Acredito que a melhor forma de consolidar o conhecimento é compartilhando. Por isso, escrevo artigos no Medium sobre meus desafios, aprendizados e reflexões na área de Qualidade. Meu objetivo é desmistificar conceitos e inspirar outras pessoas.
 
 <p>
+  <a href="https://joprestes.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Acesse_meu_Portfólio-8e44ad?style=for-the-badge&logo=briefcase&logoColor=white" alt="Acesse meu Portfólio"/>
+  </a>
   <a href="https://medium.com/@joprestes84" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Leia meus artigos no Medium"/>
   </a>
@@ -90,4 +93,4 @@ Obrigada pela visita e sinta-se à vontade para explorar meus repositórios e en
   <img src="https://visitor-badge.laobi.icu/badge?page_id=joprestes.joprestes&left_color=6272a4&right_color=44475a" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=gradient&c1=5e42a6&c2=b74e91&height=120§ion=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=round&color=gradient&c1=3a2469&c2=9b59b6&height=150§ion=footer"/>
