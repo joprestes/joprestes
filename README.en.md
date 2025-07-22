@@ -1,5 +1,4 @@
 <a name="top"></a>
-
 <p align="center">
   <a href="README.md">
     <img src="https://img.shields.io/badge/Ler%20em-Português-blue?style=for-the-badge&logo=googletranslate">
@@ -29,7 +28,7 @@ This space is my continuous learning lab. Here you'll find projects, proofs-of-c
 
 - **Technical Leadership & Mentorship:** Helping shape the next generation of QA professionals.
 - **Quality Culture:** Spreading quality practices throughout the entire development lifecycle.
-- **QAOps & Test Strategy:** Optimizing CI/CD pipelines to scale testing safely and intelligently.
+- **QAOps & Test Strategy:** Optimizing pipelines of CI/CD to scale testing safely and intelligently.
 - **Digital Accessibility (a11y):** Ensuring the web is a place for everyone.
 - **Non-Functional Testing:** Exploring the worlds of performance, security, and usability.
 
@@ -78,7 +77,7 @@ I believe the best way to solidify knowledge is by sharing it. That's why I writ
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joprestes&show_icons=true&include_all_commits=true&count_private=true&title_color=c792ea&icon_color=ff79c6&text_color=d8dee9&bg_color=282c34" height="180em" alt="Jo Prestes's GitHub stats, showing stars, commits, and contributions."/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joprestes&show_icons=true&title_color=c792ea&icon_color=ff79c6&text_color=d8dee9&bg_color=282c34" height="180em" alt="Jo Prestes's GitHub stats, showing stars, commits, and contributions."/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joprestes&layout=compact&langs_count=7&title_color=c792ea&icon_color=ff79c6&text_color=d8dee9&bg_color=282c34" height="180em" alt="Chart of Jo Prestes's most used languages on GitHub."/>
   <br>
   <img src="https://streak-stats.demolab.com?user=joprestes&locale=en&border_radius=5&background=282c34&ring=ff79c6&fire=ff79c6&currStreakNum=d8dee9&sideNums=c792ea&currStreakLabel=c792ea&sideLabels=d8dee9&dates=d8dee9" height="150" alt="Jo Prestes's GitHub contribution streak chart." />
