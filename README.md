@@ -96,7 +96,7 @@ Acredito que a melhor forma de consolidar o conhecimento é compartilhando. Por 
 Obrigada pela visita e sinta-se à vontade para explorar meus repositórios e entrar em contato! ✨
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=joprestes.joprestes&left_color=6272a4&right_color=44475a" alt="Contador de visitantes do perfil."/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=joprestes.joprestes&label=Visitantes&labelColor=%236272a4&countColor=%2344475a&style=flat" alt="Contador de visitantes do perfil."/>
 </div>
 
-<img width="100%" src="./assets/footer-banner.jpg" alt="Banner abstrato com um gradiente roxo e padrões de tecnologia, como hexágonos e linhas de circuito.">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&c1=3a2469&c2=9b59b6&height=75§ion=footer"/>

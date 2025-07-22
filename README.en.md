@@ -27,7 +27,7 @@ This space is my continuous learning lab. Here you'll find projects, proofs-of-c
 
 - **Technical Leadership & Mentorship:** Helping shape the next generation of QA professionals.
 - **Quality Culture:** Spreading quality practices throughout the entire development lifecycle.
-- **QAOps & Test Strategy:** Optimizing CI/CD pipelines to scale testing safely and intelligently.
+- **QAOps & Test Strategy:** Optimizing pipelines of CI/CD to scale testing safely and intelligently.
 - **Digital Accessibility (a11y):** Ensuring the web is a place for everyone.
 - **Non-Functional Testing:** Exploring the worlds of performance, security, and usability.
 
@@ -96,7 +96,7 @@ I believe the best way to solidify knowledge is by sharing it. That's why I writ
 Thank you for visiting, and feel free to explore my repositories and get in touch! ✨
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=joprestes.joprestes&left_color=6272a4&right_color=44475a" alt="Profile visitor counter."/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=joprestes.joprestes&label=Visitors&labelColor=%236272a4&countColor=%2344475a&style=flat" alt="Profile visitor counter."/>
 </div>
 
-<img width="100%" src="./assets/footer-banner.jpg" alt="Abstract banner with a purple gradient and tech patterns like hexagons and circuit lines.">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&c1=3a2469&c2=9b59b6&height=75§ion=footer"/>
