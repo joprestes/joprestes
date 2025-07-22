@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=round&color=gradient&c1=3a2469&c2=9b59b6&height=150§ion=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=blur&color=gradient&c1=3a2469&c2=9b59b6&height=150§ion=header"/>
 
 # Olá, mundo! Eu sou a Joelma Prestes, mas pode me chamar de Jô. 👋
 
@@ -93,4 +93,4 @@ Obrigada pela visita e sinta-se à vontade para explorar meus repositórios e en
   <img src="https://visitor-badge.laobi.icu/badge?page_id=joprestes.joprestes&left_color=6272a4&right_color=44475a" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=round&color=gradient&c1=3a2469&c2=9b59b6&height=150§ion=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&c1=3a2469&c2=9b59b6&height=150§ion=footer"/>
