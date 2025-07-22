@@ -1,5 +1,3 @@
-<a name="top"></a>
-
 <p align="center">
   <a href="README.en.md">
     <img src="https://img.shields.io/badge/Read%20in-English-blue?style=for-the-badge&logo=googletranslate">
@@ -78,7 +76,7 @@ Acredito que a melhor forma de consolidar o conhecimento é compartilhando. Por 
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joprestes&show_icons=true&include_all_commits=true&count_private=true&title_color=c792ea&icon_color=ff79c6&text_color=d8dee9&bg_color=282c34" height="180em" alt="Estatísticas do GitHub de Jo Prestes, mostrando estrelas, commits e contribuições."/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joprestes&show_icons=true&title_color=c792ea&icon_color=ff79c6&text_color=d8dee9&bg_color=282c34" height="180em" alt="Estatísticas do GitHub de Jo Prestes, mostrando estrelas, commits e contribuições."/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joprestes&layout=compact&langs_count=7&title_color=c792ea&icon_color=ff79c6&text_color=d8dee9&bg_color=282c34" height="180em" alt="Gráfico das linguagens mais usadas por Jo Prestes no GitHub."/>
   <br>
   <img src="https://streak-stats.demolab.com?user=joprestes&locale=pt_BR&border_radius=5&background=282c34&ring=ff79c6&fire=ff79c6&currStreakNum=d8dee9&sideNums=c792ea&currStreakLabel=c792ea&sideLabels=d8dee9&dates=d8dee9" height="150" alt="Gráfico de sequência de contribuições (streak) de Jo Prestes no GitHub." />
@@ -101,6 +99,7 @@ Obrigada pela visita e sinta-se à vontade para explorar meus repositórios e en
   <img src="https://api.visitorbadge.io/api/visitors?path=joprestes.joprestes&label=Visitantes&labelColor=%236272a4&countColor=%2344475a&style=flat" alt="Contador de visitantes do perfil."/>
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&c1=3a2469&c2=9b59b6&height=75§ion=footer"/>
 ---
 <div align="center">
   <small>
