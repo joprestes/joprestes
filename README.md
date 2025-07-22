@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0d1117,100:4c2882§ion=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=gradient&c1=5e42a6&c2=b74e91&height=120§ion=header"/>
 
 # Olá, mundo! Eu sou a Joelma Prestes, mas pode me chamar de Jô. 👋
 
@@ -55,10 +55,10 @@ Acredito que a melhor forma de consolidar o conhecimento é compartilhando. Por 
 
 <p>
   <a href="https://medium.com/@joprestes84" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Leia meus artigos no Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="medium logo"/>
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Leia meus artigos no Medium"/>
   </a>
   <a href="https://www.linkedin.com/in/joprestes84/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Conecte-se no LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se no LinkedIn"/>
   </a>
 </p>
 
@@ -90,4 +90,4 @@ Obrigada pela visita e sinta-se à vontade para explorar meus repositórios e en
   <img src="https://visitor-badge.laobi.icu/badge?page_id=joprestes.joprestes&left_color=6272a4&right_color=44475a" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120§ion=footer&color=0:0d1117,100:4c2882"/>```
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&color=gradient&c1=5e42a6&c2=b74e91&height=120§ion=footer"/>
