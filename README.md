@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="README.en.md">
+    <img src="https://img.shields.io/badge/Read%20in-English-blue?style=for-the-badge&logo=googletranslate">
+  </a>
+</p>
+
 <img width="100%" src="./assets/banner-header.jpg" alt="Ilustração de uma mulher com óculos e cabelos escuros, programando em um notebook, sobre um fundo roxo com padrões de tecnologia em formato de hexágonos.">
 
 # Olá, mundo! Eu sou a Joelma Prestes, mas pode me chamar de Jô. 👋
