@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 <p align="center">
   <a href="README.md">
     <img src="https://img.shields.io/badge/Ler%20em-Português-blue?style=for-the-badge&logo=googletranslate">
@@ -27,7 +29,7 @@ This space is my continuous learning lab. Here you'll find projects, proofs-of-c
 
 - **Technical Leadership & Mentorship:** Helping shape the next generation of QA professionals.
 - **Quality Culture:** Spreading quality practices throughout the entire development lifecycle.
-- **QAOps & Test Strategy:** Optimizing pipelines of CI/CD to scale testing safely and intelligently.
+- **QAOps & Test Strategy:** Optimizing CI/CD pipelines to scale testing safely and intelligently.
 - **Digital Accessibility (a11y):** Ensuring the web is a place for everyone.
 - **Non-Functional Testing:** Exploring the worlds of performance, security, and usability.
 
@@ -76,11 +78,11 @@ I believe the best way to solidify knowledge is by sharing it. That's why I writ
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joprestes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" alt="Jo Prestes's GitHub stats, showing stars, commits, and contributions."/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joprestes&layout=compact&langs_count=7&theme=dracula" height="180em" alt="Chart of Jo Prestes's most used languages on GitHub."/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joprestes&show_icons=true&include_all_commits=true&count_private=true&title_color=c792ea&icon_color=ff79c6&text_color=d8dee9&bg_color=282c34" height="180em" alt="Jo Prestes's GitHub stats, showing stars, commits, and contributions."/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joprestes&layout=compact&langs_count=7&title_color=c792ea&icon_color=ff79c6&text_color=d8dee9&bg_color=282c34" height="180em" alt="Chart of Jo Prestes's most used languages on GitHub."/>
   <br>
-  <img src="https://streak-stats.demolab.com?user=joprestes&locale=pt_BR&theme=dracula&border_radius=5" height="150" alt="Jo Prestes's GitHub contribution streak chart." />
-  <img src="https://github-profile-trophy.vercel.app?username=joprestes&theme=dracula&column=4&row=1&margin-w=15&no-bg=true" height="150" alt="Trophies earned by Jo Prestes on GitHub." />
+  <img src="https://streak-stats.demolab.com?user=joprestes&locale=en&border_radius=5&background=282c34&ring=ff79c6&fire=ff79c6&currStreakNum=d8dee9&sideNums=c792ea&currStreakLabel=c792ea&sideLabels=d8dee9&dates=d8dee9" height="150" alt="Jo Prestes's GitHub contribution streak chart." />
+  <img src="https://github-profile-trophy.vercel.app?username=joprestes&theme=onedark&column=4&row=1&margin-w=15&no-bg=true" height="150" alt="Trophies earned by Jo Prestes on GitHub." />
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joprestes/joprestes/output/pacman-contribution-graph-dark.svg">
@@ -99,4 +101,12 @@ Thank you for visiting, and feel free to explore my repositories and get in touc
   <img src="https://api.visitorbadge.io/api/visitors?path=joprestes.joprestes&label=Visitors&labelColor=%236272a4&countColor=%2344475a&style=flat" alt="Profile visitor counter."/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&c1=3a2469&c2=9b59b6&height=75§ion=footer"/>
+---
+<div align="center">
+  <small>
+    © 2025 Joelma de Oliveira Prestes Ferreira
+    <br>
+    <a href="https://www.linkedin.com/in/joprestes84" target="_blank" rel="noopener noreferrer">LinkedIn</a> | 
+    <a href="#top">Back to top</a>
+  </small>
+</div>
