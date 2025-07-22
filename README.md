@@ -1,4 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=blur&color=gradient&c1=3a2469&c2=9b59b6&height=150§ion=header"/>
+<div align="right">
+ <a href="https://joprestes.github.io/portfolio/">
+  <img width="400" src="./assets/banner-header.jpg" alt="Ilustração do perfil">
+ </a>
+</div>
 
 # Olá, mundo! Eu sou a Joelma Prestes, mas pode me chamar de Jô. 👋
 
@@ -14,6 +18,8 @@ Hoje, como **Líder de Engenharia na CWI**, meu propósito é guiar e empoderar 
 - Como usamos dados e observabilidade (QAOps) para tomar decisões mais inteligentes?
 
 Este espaço é meu laboratório de aprendizado contínuo. Aqui você encontrará projetos, provas de conceito e estudos relacionados às áreas que movem meu dia a dia.
+
+<br clear="both"/>
 
 ---
 
@@ -93,4 +99,4 @@ Obrigada pela visita e sinta-se à vontade para explorar meus repositórios e en
   <img src="https://visitor-badge.laobi.icu/badge?page_id=joprestes.joprestes&left_color=6272a4&right_color=44475a" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&c1=3a2469&c2=9b59b6&height=150§ion=footer"/>
+<img width="100%" src="./assets/footer-banner.jpg" alt="Footer Banner">/Users/joelmaprestes/joprestes/assets/banner-footer.tiff
