@@ -9,7 +9,7 @@
 
 # Hello, world! I'm Joelma Prestes, but you can call me Jô. 👋
 
-### Software Quality Engineer & Tech Lead | Passionate about building bridges between people, processes, and technology.
+### Software Quality Engineer Lead | Passionate about building bridges between people, processes, and technology.
 
 If you've made it this far, you probably share the same belief I do: **quality isn't just about finding bugs; it's about building a culture that prevents them from happening in the first place**.
 

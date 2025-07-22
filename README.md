@@ -9,7 +9,7 @@
 
 # Olá, mundo! Eu sou a Joelma Prestes, mas pode me chamar de Jô. 👋
 
-### Engenheira de Qualidade de Software & Líder Técnica | Apaixonada por construir pontes entre pessoas, processos e tecnologia.
+### Lider de Engenharia de Qualidade de Software | Apaixonada por construir pontes entre pessoas, processos e tecnologia.
 
 Se você chegou até aqui, provavelmente compartilha da mesma crença que eu: **qualidade não é apenas sobre encontrar bugs, é sobre construir uma cultura que previne que eles aconteçam**.
 
