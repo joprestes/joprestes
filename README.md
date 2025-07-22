@@ -1,3 +1,4 @@
+<a name="top"></a>
 <p align="center">
   <a href="README.en.md">
     <img src="https://img.shields.io/badge/Read%20in-English-blue?style=for-the-badge&logo=googletranslate">
@@ -99,7 +100,6 @@ Obrigada pela visita e sinta-se à vontade para explorar meus repositórios e en
   <img src="https://api.visitorbadge.io/api/visitors?path=joprestes.joprestes&label=Visitantes&labelColor=%236272a4&countColor=%2344475a&style=flat" alt="Contador de visitantes do perfil."/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&c1=3a2469&c2=9b59b6&height=75§ion=footer"/>
 ---
 <div align="center">
   <small>
