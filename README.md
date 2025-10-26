@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<img width="100%" src="./assets/banner3.jpg" alt="Ilustração de uma mulher com óculos e cabelos escuros, sobre um fundo roxo com padrões de tecnologia ">
+<img width="100%" src="./assets/banner3.png" alt="Ilustração de uma mulher com óculos e cabelos escuros, sobre um fundo roxo com padrões de tecnologia ">
 
 # Olá, mundo! Eu sou a Joelma Prestes, mas pode me chamar de Jô. 👋
 
