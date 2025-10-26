@@ -5,7 +5,7 @@
   </a>
 </p>
 
-<img width="100%" src="./assets/banner-header.jpg" alt="Illustration of a woman with glasses and dark hair, programming on a laptop, against a purple background with tech-style hexagon patterns.">
+<img width="100%" src="./assets/banner-header.png" alt="Illustration of a woman with glasses and dark hair, programming on a laptop, against a purple background with tech-style hexagon patterns.">
 
 # Hello, world! I'm Joelma Prestes, but you can call me Jô. 👋
 
